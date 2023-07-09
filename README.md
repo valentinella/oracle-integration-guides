@@ -1,0 +1,1 @@
+# Guides and examples for integrating oracles into blockchain applications, enabling smart contracts to interact with real-world data and external APIs, expanding the possibilities of decentralized applications.
